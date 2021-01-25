@@ -37,10 +37,12 @@ driver.manage().window().maximize();
 
 @AfterMethod
 
-public void teardown()
+public void teardown() throws InterruptedException
 
 {
 driver.quit();
+
+Thread.sleep(5000);
 
 }
 
