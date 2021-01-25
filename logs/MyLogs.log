@@ -1424,3 +1424,222 @@
 [INFO ] 2021-01-24 01:52:25.936 [main] MyBaseClass - Navigated to Favorites page.Test case passed
 [INFO ] 2021-01-24 01:52:27.809 [main] MyBaseClass - Image clicked
 [INFO ] 2021-01-24 01:52:27.944 [main] MyBaseClass - Item Added in cart
+[INFO ] 2021-01-25 01:03:19.454 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:03:49.930 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:03:50.207 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:03:52.361 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:03:52.501 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:03:52.638 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:03:55.928 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:04:05.608 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:04:05.743 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:04:07.764 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:04:07.936 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:04:08.040 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:04:10.031 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:04:10.159 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 01:04:12.697 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 01:04:12.706 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 01:04:20.701 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:04:20.909 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:04:22.469 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:04:22.678 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:04:22.800 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:04:25.075 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:04:25.367 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 01:04:27.782 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 01:04:27.795 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 01:04:28.024 [main] MyBaseClass - Sort By option clicked
+[INFO ] 2021-01-25 01:04:28.120 [main] MyBaseClass - Got sort by options
+[INFO ] 2021-01-25 01:04:37.602 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:04:37.880 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:04:39.465 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:04:39.615 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:04:39.721 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:04:42.017 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:04:42.291 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 01:04:44.641 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 01:04:44.660 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 01:04:44.788 [main] MyBaseClass - Sort By option clicked
+[INFO ] 2021-01-25 01:04:44.914 [main] MyBaseClass - Got sort by options
+[INFO ] 2021-01-25 01:04:55.416 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:04:55.558 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:04:57.099 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:04:57.270 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:04:57.377 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:04:59.796 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:04:59.995 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 01:05:02.810 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 01:05:02.831 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 01:05:05.965 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 01:05:16.169 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:05:16.457 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:05:18.012 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:05:18.159 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:05:18.259 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:05:20.330 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:05:20.591 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 01:05:22.994 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 01:05:23.036 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 01:05:25.592 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 01:05:26.058 [main] MyBaseClass - Description clicked
+[INFO ] 2021-01-25 01:05:26.141 [main] MyBaseClass - Description got printed
+[INFO ] 2021-01-25 01:05:35.305 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:05:35.509 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:05:37.192 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:05:37.333 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:05:37.435 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:05:39.689 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 01:05:39.842 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 01:05:42.794 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 01:05:42.806 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 01:05:45.476 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 01:05:45.602 [main] MyBaseClass - Item Added in cart
+[INFO ] 2021-01-25 01:19:10.255 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:19:20.065 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 01:19:20.750 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 01:19:22.049 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 01:19:22.288 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 01:19:22.381 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 01:19:24.338 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:06:42.974 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:06:43.173 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:06:45.589 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:06:45.735 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:06:45.823 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:06:48.811 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:06:57.283 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:06:57.394 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:06:59.379 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:06:59.504 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:06:59.590 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:07:01.724 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:07:01.822 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 08:07:04.478 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 08:07:04.494 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 08:07:17.618 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:07:17.764 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:07:19.507 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:07:19.665 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:07:19.763 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:07:21.834 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:07:21.943 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 08:07:24.531 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 08:07:24.538 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 08:07:24.677 [main] MyBaseClass - Sort By option clicked
+[INFO ] 2021-01-25 08:07:24.721 [main] MyBaseClass - Got sort by options
+[INFO ] 2021-01-25 08:07:36.345 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:07:36.455 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:07:38.005 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:07:38.134 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:07:38.250 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:07:40.027 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:07:40.154 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 08:07:42.269 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 08:07:42.278 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 08:07:42.410 [main] MyBaseClass - Sort By option clicked
+[INFO ] 2021-01-25 08:07:42.475 [main] MyBaseClass - Got sort by options
+[INFO ] 2021-01-25 08:07:49.783 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:07:49.887 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:07:51.339 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:07:51.449 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:07:51.524 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:07:53.650 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:07:53.754 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 08:07:57.004 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 08:07:57.012 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 08:07:59.370 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 08:08:06.264 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:08:06.369 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:08:08.059 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:08:08.191 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:08:08.275 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:08:10.122 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:08:10.215 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 08:08:12.235 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 08:08:12.241 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 08:08:14.065 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 08:08:14.223 [main] MyBaseClass - Description clicked
+[INFO ] 2021-01-25 08:08:14.275 [main] MyBaseClass - Description got printed
+[INFO ] 2021-01-25 08:08:20.858 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 08:08:20.973 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 08:08:22.869 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 08:08:22.989 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 08:08:23.080 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 08:08:25.219 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 08:08:25.325 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 08:08:27.131 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 08:08:27.137 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 08:08:28.913 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 08:08:29.039 [main] MyBaseClass - Item Added in cart
+[INFO ] 2021-01-25 09:04:43.957 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:04:51.513 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:04:51.735 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:04:53.440 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:04:53.618 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:04:53.701 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:04:55.751 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:05:02.982 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:05:03.138 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:05:04.618 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:05:04.757 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:05:04.847 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:05:06.794 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:05:06.903 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 09:05:08.507 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 09:05:08.535 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 09:05:16.203 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:05:16.331 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:05:17.781 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:05:17.927 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:05:18.025 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:05:19.934 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:05:20.068 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 09:05:22.558 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 09:05:22.567 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 09:05:22.676 [main] MyBaseClass - Sort By option clicked
+[INFO ] 2021-01-25 09:05:22.733 [main] MyBaseClass - Got sort by options
+[INFO ] 2021-01-25 09:05:29.854 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:05:29.990 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:05:31.452 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:05:31.606 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:05:31.702 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:05:33.335 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:05:33.449 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 09:05:35.684 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 09:05:35.692 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 09:05:35.801 [main] MyBaseClass - Sort By option clicked
+[INFO ] 2021-01-25 09:05:35.881 [main] MyBaseClass - Got sort by options
+[INFO ] 2021-01-25 09:05:44.085 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:05:44.192 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:05:45.463 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:05:45.608 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:05:45.691 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:05:47.754 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:05:47.882 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 09:05:50.170 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 09:05:50.181 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 09:05:52.668 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 09:06:00.262 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:06:00.368 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:06:02.091 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:06:02.221 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:06:02.301 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:06:04.152 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:06:04.281 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 09:06:06.073 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 09:06:06.102 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 09:06:08.002 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 09:06:08.215 [main] MyBaseClass - Description clicked
+[INFO ] 2021-01-25 09:06:08.313 [main] MyBaseClass - Description got printed
+[INFO ] 2021-01-25 09:06:21.629 [main] MyBaseClass - URL has opened.Test case passed.
+[INFO ] 2021-01-25 09:06:21.790 [main] MyBaseClass - Header clicked
+[INFO ] 2021-01-25 09:06:23.712 [main] MyBaseClass - Signin clicked
+[INFO ] 2021-01-25 09:06:23.843 [main] MyBaseClass - Entered username
+[INFO ] 2021-01-25 09:06:23.952 [main] MyBaseClass - Entered password
+[INFO ] 2021-01-25 09:06:26.228 [main] MyBaseClass - Test case passed
+[INFO ] 2021-01-25 09:06:26.382 [main] MyBaseClass - Clicked header again
+[INFO ] 2021-01-25 09:06:28.637 [main] MyBaseClass - Clicked favorites
+[INFO ] 2021-01-25 09:06:28.646 [main] MyBaseClass - Navigated to Favorites page.Test case passed
+[INFO ] 2021-01-25 09:06:30.964 [main] MyBaseClass - Image clicked
+[INFO ] 2021-01-25 09:06:31.116 [main] MyBaseClass - Item Added in cart
