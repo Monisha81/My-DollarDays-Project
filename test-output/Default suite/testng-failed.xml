@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.dollardays.testcases.LoginTestcase">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="invokeLogin"/>
+          <include name="quit"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.LoginTestcase -->
+      <class name="com.dollardays.testcases.ExampleSearchTestcase">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="search"/>
+          <include name="quit"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.ExampleSearchTestcase -->
+      <class name="com.dollardays.testcases.EmailPreferencesValidationsTestCase">
+        <methods>
+          <include name="EmailPreferences_LinksValidation"/>
+          <include name="afterClass"/>
+          <include name="emailPreferences_Checkbox_Validation_AtPageLaunch"/>
+          <include name="emailPreferences_checkbox_validation_AtClick"/>
+          <include name="beforeClass"/>
+          <include name="termAndConditionsPage_LinksValidation"/>
+          <include name="quit"/>
+          <include name="emailPreferences_UserEmailAddressValidation"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.EmailPreferencesValidationsTestCase -->
+      <class name="com.dollardays.testcases.SearchTestcase">
+        <methods>
+          <include name="TC_01_searchWithValidDta"/>
+          <include name="TC_02_searchWithInvalidDta"/>
+          <include name="TC_03_searchPageWithNavigationLinks"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="quit"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.SearchTestcase -->
+      <class name="com.dollardays.testcases.ExamleTestcase">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="login"/>
+          <include name="quit"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.ExamleTestcase -->
+      <class name="com.dollardays.testcases.DefaultPaymentMethodScript">
+        <methods>
+          <include name="VerifyClickAddNewCard"/>
+          <include name="VerifyEditOnCard"/>
+          <include name="afterClass"/>
+          <include name="VerifyCardVisible"/>
+          <include name="VerifySetDefaultCard"/>
+          <include name="beforeClass"/>
+          <include name="VerifyDCEditClick"/>
+          <include name="VerifyDeleteCard"/>
+          <include name="quit"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.DefaultPaymentMethodScript -->
+      <class name="com.dollardays.testcases.Team2TaxExemptTestCase">
+        <methods>
+          <include name="ValidateTaxExemptRequiredFields"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="quit"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.dollardays.testcases.Team2TaxExemptTestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

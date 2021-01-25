@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="com.dollardays.listners.TestListener" />
+	</listeners>
+
+	<test name="Dollar Days Test">
+				
+		<classes>
+			 <class name="com.dollardays.testcases.TC_GetURLTest_001"/>
+			 <class name="com.dollardays.testcases.TC_SignIn_002"/>
+			 <class name="com.dollardays.testcases.TC_ClickFavorite_003"/>
+			 <class name="com.dollardays.testcases.TC_ClickSortByDropDown_004"/>
+			 <class name="com.dollardays.testcases.TC_ClickViewDropDown_005"/>
+			 <class name="com.dollardays.testcases.TC_ClickItem_006"/>
+			 <class name="com.dollardays.testcases.TC_GetItemDescription_007"/>
+			 <class name="com.dollardays.testcases.TC_AddToCart_008"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
